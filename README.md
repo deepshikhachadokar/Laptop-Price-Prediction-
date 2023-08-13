@@ -12,8 +12,19 @@ The problem statement is that if any user wants to buy a laptop then our model p
 **Statistical technique used**
 
 Exploratory Data analysis
+
 Linear regression
+
 Lasso regression
+
 Ridge regression
+
 Random forest regression
+
+**CONCLUSION**
+
+With 88% Training Accuracy and 93% Testing Accuracy, Random Forest has proven to be the most efficient model out of the algorithms used in our model, including Linear Regression, Lasso Regression, Ridge Regression,  and Random Forest.
+
+
+ Hence Random Forest will give best accuracy among all. That means the prediction based on these model will be accurate and near to the actual value. 
 
