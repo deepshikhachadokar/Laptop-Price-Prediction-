@@ -1,6 +1,9 @@
 # Laptop-Price-Prediction-
 The most widespread use of laptops can be seen in our daily life, where we take advantage of these devices for various purposes. Generally, they help people in internet banking, online recharge, bill payment, listening to music, watching movies, playing games, online education, internet surfing, etc.  
 
+![istockphoto-1069549614-612x612](https://github.com/deepshikhachadokar/Laptop-Price-Prediction-/assets/127601650/41546951-385f-4457-9b22-6430681f42e2)
+
+
 **Problem domain**
 The problem statement is that if any user wants to buy a laptop  then we set an algorithm(Model) which is  compatible to provide a tentative price of laptop according to the user configurations. We develop a Model , for  the .dataset ,which is noisy and needs lots of feature engineering, and preprocessing.
 
